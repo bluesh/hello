@@ -1,2 +1,2 @@
 # hello
-for git beginner
+for git & github beginner
